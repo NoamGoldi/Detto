@@ -1,4 +1,4 @@
-### open the csv file "c:\users\yaron\Downloads\Deeto References For Search.xlsx" and read the data to a pandas dataframe
+### open the csv file "Deeto/References For Search.xlsx" and read the data to a pandas dataframe
 %pip install openpyxl
 import pandas as pd
 # Install pandas
@@ -22,7 +22,7 @@ import os
 #     raise ValueError("Please set your OpenAI API key in the environment variable 'OPENAI_API_KEY' or replace")
 
 # Read the Excel file
-df = pd.read_excel(r"c:\users\yaron\Downloads\Deeto References For Search.xlsx")
+df = pd.read_excel(r"Deeto/References For Search.xlsx")
 # Convert the dataframe to a dictionary
 data_dict = df.to_dict(orient='records')
 # Save the dictionary to a file
