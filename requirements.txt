@@ -2,4 +2,4 @@ pandas
 numpy
 openai
 openpyxl
-cv2
+opencv-python
