@@ -1,17 +1,10 @@
 ### open the csv file "Deeto/References For Search.xlsx" and read the data to a pandas dataframe
-%pip install openpyxl
 import pandas as pd
 # Install pandas
-!{sys.executable} -m pip install pandas
 import cv2
-# Install numpy
-!{sys.executable} -m pip install numpy
-
-!{sys.executable} -m pip install openai
 # Install openai
 import openai
 # Install openpyxl for reading Excel files
-!{sys.executable} -m pip install openpyxl
 # Set your OpenAI API key directly (not recommended for production, use environment variable instead)
 openai.api_key = "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"  # Replace with your actual OpenAI API key
 
