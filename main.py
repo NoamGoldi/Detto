@@ -1,4 +1,4 @@
-### open the csv file "Deeto/References For Search.xlsx" and read the data to a pandas dataframe
+### open the csv file "Deeto References For Search.xlsx" and read the data to a pandas dataframe
 import pandas as pd
 # Install pandas
 import cv2
@@ -13,7 +13,7 @@ import os
 # openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # Read the Excel file
-df = pd.read_excel(r"Deeto/References For Search.xlsx")
+df = pd.read_excel(r"Deeto References For Search.xlsx")
 # Convert the dataframe to a dictionary
 data_dict = df.to_dict(orient='records')
 # Save the dictionary to a file
