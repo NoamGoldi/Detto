@@ -18,8 +18,6 @@ openai.api_key = "sk-proj-hwPO3VojOM4l33FbKbletcQ0GVnksbNK_6PDjTB3ukVEbhy_yDadHy
 import os
 # Optionally, you can use the environment variable if you want:
 # openai.api_key = os.getenv('OPENAI_API_KEY')
-# if not openai.api_key:
-#     raise ValueError("Please set your OpenAI API key in the environment variable 'OPENAI_API_KEY' or replace")
 
 # Read the Excel file
 df = pd.read_excel(r"Deeto/References For Search.xlsx")
