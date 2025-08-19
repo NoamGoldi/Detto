@@ -7,14 +7,8 @@ import openai
 # Install openpyxl for reading Excel files
 import os
 
-# Try to read the OpenAI API key from 'key.txt', else prompt for manual entry
-api_key_path = 'key.txt'
-if os.path.exists(api_key_path):
-    with open(api_key_path, 'r') as f:
-        openai.api_key = f.read().strip()
-else:
-    # Prompt user for API key if file does not exist
-    openai.api_key = input("Enter your OpenAI API key: ").strip()
+# Set the OpenAI API key
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Read the Excel file
 df = pd.read_excel(r"Deeto References For Search.xlsx")
