@@ -1,0 +1,56 @@
+Type: CaseStudy, Topic: Main Onboarding, Key: paragraphs, Count: 32
+Type: CaseStudy, Topic: Main Onboarding, Key: quote, Count: 32
+Type: CaseStudy, Topic: Main Onboarding, Key: review, Count: 32
+Type: CaseStudy, Topic: Main Onboarding, Key: kpi, Count: 32
+Type: CaseStudy, Topic: Main Onboarding, Key: imageBank, Count: 32
+Type: CaseStudy, Topic: Deeto Anniversary Users, Key: paragraphs, Count: 1
+Type: CaseStudy, Topic: Deeto Anniversary Users, Key: imageBank, Count: 1
+Type: CaseStudy, Topic: Deeto Anniversary Users, Key: quote, Count: 1
+Type: CaseStudy, Topic: Deeto Anniversary Users, Key: review, Count: 1
+Type: CaseStudy, Topic: Deeto Anniversary Users, Key: kpi, Count: 1
+Type: CaseStudy, Topic: Referral Campaign, Key: paragraphs, Count: 1
+Type: CaseStudy, Topic: Referral Campaign, Key: imageBank, Count: 1
+Type: CaseStudy, Topic: Referral Campaign, Key: quote, Count: 1
+Type: CaseStudy, Topic: Referral Campaign, Key: review, Count: 1
+Type: CaseStudy, Topic: Referral Campaign, Key: kpi, Count: 1
+Type: Review, Topic: Main Onboarding, Key: content, Count: 42
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 2, Count: 16
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 0, Count: 16
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 1, Count: 16
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 3, Count: 15
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: How quickly after implementing Deeto did you start witnessing a return on investment (ROI)?, Count: 3
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 12, Count: 2
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 11, Count: 2
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 7, Count: 13
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: How many additional pieces of marketing content has your company recieved since implementing Deeto?, Count: 13
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: In the first 90 days of using Deeto, you estimate the value of social proof content to be:, Count: 12
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: In the first 90 days of using Deeto, your pool of available references grew by:, Count: 13
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 8, Count: 12
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 9, Count: 13
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 14, Count: 2
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 6, Count: 1
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: What is the percentage increase in proactive customer engagement (i.e. content, referrals, reference calls) since you started using Deeto?, Count: 1
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: By what percentage has Deeto helped increase the coversion of existing customers to active advocates?, Count: 1
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 27, Count: 1
+Type: QuestionsAndAnswers, Topic: Main Onboarding, Key: Question 15, Count: 1
+Type: QuestionsAndAnswers, Topic: New Customer Survey, Key: Question 3, Count: 12
+Type: QuestionsAndAnswers, Topic: New Customer Survey, Key: Question 2, Count: 12
+Type: QuestionsAndAnswers, Topic: New Customer Survey, Key: Question 4, Count: 12
+Type: QuestionsAndAnswers, Topic: New Customer Survey, Key: Question 5, Count: 12
+Type: QuestionsAndAnswers, Topic: New Customer Survey, Key: Question 1, Count: 12
+Type: QuestionsAndAnswers, Topic: G2 Integration Questionnaire, Key: Question 1, Count: 1
+Type: QuestionsAndAnswers, Topic: Technical Resource Advocates, Key: Question 2, Count: 2
+Type: QuestionsAndAnswers, Topic: Technical Resource Advocates, Key: Question 5, Count: 2
+Type: QuestionsAndAnswers, Topic: Technical Resource Advocates, Key: Question 3, Count: 2
+Type: QuestionsAndAnswers, Topic: Technical Resource Advocates, Key: Question 4, Count: 2
+Type: QuestionsAndAnswers, Topic: Technical Resource Advocates, Key: Question 1, Count: 2
+Type: QuestionsAndAnswers, Topic: Deeto Anniversary Users, Key: Question 1, Count: 1
+Type: QuestionsAndAnswers, Topic: Deeto Anniversary Users, Key: Question 2, Count: 1
+Type: QuestionsAndAnswers, Topic: Deeto Anniversary Users, Key: Question 3, Count: 1
+Type: QuestionsAndAnswers, Topic: Deeto Anniversary Users, Key: Question 4, Count: 1
+Type: QuestionsAndAnswers, Topic: Referral Campaign, Key: Question 2, Count: 1
+Type: QuestionsAndAnswers, Topic: Referral Campaign, Key: Question 3, Count: 1
+Type: QuestionsAndAnswers, Topic: Referral Campaign, Key: Question 4, Count: 1
+Type: QuestionsAndAnswers, Topic: Referral Campaign, Key: Question 1, Count: 1
+Final Summary of Reviews:
+Deeto platform is praised by users for streamlining sales processes, boosting revenue, and improving customer engagement. Its ability to track email communication, generate customer testimonials, and match prospects efficiently, coupled with intuitive interface, innovative features, and exceptional support, have led to its success as a game-changer for business growth.
