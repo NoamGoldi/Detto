@@ -9,8 +9,14 @@ import openai
 openai.api_key = "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"  # Replace with your actual OpenAI API key
 
 import os
-# Optionally, you can use the environment variable if you want:
-# openai.api_key = os.getenv('OPENAI_API_KEY')
+# Try to read the OpenAI API key from 'key.txt', else prompt for manual entry
+api_key_path = 'key.txt'
+if os.path.exists(api_key_path):
+    with open(api_key_path, 'r') as f:
+        openai.api_key = f.read().strip()
+else:
+    # Prompt user for API key if file does not exist
+    openai.api_key = input("Enter your OpenAI API key: ").strip()
 
 # Read the Excel file
 df = pd.read_excel(r"Deeto References For Search.xlsx")
