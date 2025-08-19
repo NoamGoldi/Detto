@@ -5,10 +5,8 @@ import cv2
 # Install openai
 import openai
 # Install openpyxl for reading Excel files
-# Set your OpenAI API key directly (not recommended for production, use environment variable instead)
-openai.api_key = "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"  # Replace with your actual OpenAI API key
-
 import os
+
 # Try to read the OpenAI API key from 'key.txt', else prompt for manual entry
 api_key_path = 'key.txt'
 if os.path.exists(api_key_path):
