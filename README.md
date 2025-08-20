@@ -4,7 +4,7 @@ This project uses the **OpenAI API** to summarize customer reviews from an Excel
 ---
 
 ## How It Works ⚙️
-1.  **Input:** The tool takes an Excel file (`Deeto References For Search.xlsx`) from the repository as its input.
+1.  **Input:** The tool takes an Excel file (`reviews.xlsx`) from the repository as its input.
 2.  **Processing:** A Python script processes the reviews in the file.
 3.  **API Call:** It sends the text of each review to the OpenAI API for summarization, requiring an **API key**.
 4.  **Output:** The summarized reviews are generated and displayed directly in the **GitHub Actions run output**.
